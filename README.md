@@ -157,6 +157,9 @@ https://api.kipfel.link/v1/vrc?url=https://www.bilibili.com/video/BVxxxxxxxxxx
 
 ## 发布说明
 
-当前版本：v0.3.13。安装包已进行文件结构与源码静态检查，尚未经过 Unity 实机编译及完整 VRChat 多人测试。实际兼容性以项目中的 Build & Test 结果为准。
+当前版本：v0.3.13。安装包已通过文件结构与源码静态检查，并经人工实际测试确认，项目功能正常，可投入使用。不同 Unity、SDK 版本及第三方解析服务的兼容性以实际运行结果为准。
 
 **作者：miluo**
+
+**README由ChatGpt攥写**
+
